@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository //  -->
 	</parent>
 	<groupId>com.ss</groupId>
-	<artifactId>utopiapassengerms</artifactId>
+	<artifactId>utopiapaymentms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>utopiapassengerms</name>
-	<description>PassengerMS</description>
+	<name>utopiapaymentms</name>
+	<description>PaymentMS</description>
 	<properties>
 		<java.version>8</java.version>
 		<vaadin.version>14.4.9</vaadin.version>

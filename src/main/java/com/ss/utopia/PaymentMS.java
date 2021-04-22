@@ -6,10 +6,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class PassengerMS {
+public class PaymentMS {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PassengerMS.class, args);
+		SpringApplication.run(PaymentMS.class, args);
 	}
 
 	@Bean
